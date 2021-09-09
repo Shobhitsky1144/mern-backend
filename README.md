@@ -1,7 +1,8 @@
 # mern-backend-jwt-hashing
 
 # mern-backend-jwt-hashing
-Registration.login.HomePage,Logout,Jwt,hashing,cookie
+#Registration.login.HomePage,Logout,Jwt,hashing,cookie
+
 frontend-html,css,js,bootstrap
 #project-templateEngine -hbs,partials,
 Middleware-express.static
